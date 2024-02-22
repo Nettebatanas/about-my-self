@@ -37,7 +37,7 @@ nav ul li a {
     text-decoration: aqua;
 }
 nav ul a:hover{
-    color:blue;
+    color: rgb(182, 219, 182);
 }
 
 figure:hover img {
